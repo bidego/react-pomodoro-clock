@@ -6,11 +6,11 @@
 ### You can find this one at [https://codepen.io/bidego/pen/LzKmrb](https://codepen.io/bidego/pen/LzKmrb).
 
 
-### Set Globals Defaults at index.js
+### Setup Global Defaults at js/index.js
 ```javascript
 const SETUP = {
-	SETUP.Endtime: 25,
-	SETUP.Order: 'desc' || 'asc'
-	SETUP.RemainingBeepTime: 15
+	Endtime: 25,
+	Order: 'desc' || 'asc'
+	RemainingBeepTime: 15
 }
 ```
