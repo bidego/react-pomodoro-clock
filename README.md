@@ -12,4 +12,5 @@ const SETUP = {
 	SETUP.Endtime: 25,
 	SETUP.Order: 'desc' || 'asc'
 	SETUP.RemainingBeepTime: 15
+}
 ```
