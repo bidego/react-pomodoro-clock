@@ -121,6 +121,7 @@ var Clock = function (_React$Component) {
 
   /* Session Controls END */
 
+
   Clock.prototype.formatTime = function formatTime(e) {
     this.state.order == 'desc' ? this.state.count = this.state.endtime * 60 - this.state.timer : this.state.count = this.state.timer;
     if (this.state.count >= 60) {
